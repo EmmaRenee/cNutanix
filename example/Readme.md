@@ -37,7 +37,7 @@ The next block contains settings specific to the node processing our configurati
 ````` PowerShell
 @{
     NodeName            = 'localhost'       # Mandatory - Name of system executing script (localhost is sufficient)
-    ClusterUri          = '10.0.8.19'     # Mandatory - Cluster VIP
+    ClusterUri          = 'mycluster.mydomain.com'     # Mandatory - Cluster VIP
 }
 `````
 
