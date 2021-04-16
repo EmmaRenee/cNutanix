@@ -165,7 +165,7 @@ VMs = @(
                 ContainerName   = 'SelfServiceContainer'
             }
             @{
-                Type            = 'CD-Rpm'
+                Type            = 'CD-Rom'
                 Index           = 0
                 ContainerName   = 'SelfServiceContainer'
             }
