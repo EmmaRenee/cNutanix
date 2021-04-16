@@ -7,7 +7,7 @@
         }
         @{
             NodeName            = 'localhost'
-            ClusterUri          = '10.38.28.19'
+            ClusterUri          = 'mycluster.mydomain.com'
         }
     )
 
