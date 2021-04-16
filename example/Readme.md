@@ -57,7 +57,7 @@ All of this is wrapped in the "AllNodes" array, which looks like this:
         }
         @{
             NodeName            = 'localhost'
-            ClusterUri          = '10.0.8.19'
+            ClusterUri          = 'mycluster.mydomain.com'
         }
     )
 }
@@ -193,7 +193,7 @@ This is what your manifest should like when you put it all together.
         }
         @{
             NodeName            = 'localhost'
-            ClusterUri          = '10.0.8.19'
+            ClusterUri          = 'mycluster.mydomain.com'
         }
     )
 
